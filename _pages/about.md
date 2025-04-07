@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/), supervised by Prof. [Hongzi Zhu](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=64) since 2022 fall. Previously, I received the B.Eng. degree at the Excellent Engineer Class of [School of Electronic Information and Communications (EIC)](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in June, 2022.
 
 My research interest includes collaborative perception and weakly-supervised learning. 
-{% I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). %}
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
