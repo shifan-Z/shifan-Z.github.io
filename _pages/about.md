@@ -29,7 +29,7 @@ My research interest includes collaborative perception and weakly-supervised lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -39,8 +39,31 @@ My research interest includes collaborative perception and weakly-supervised lea
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> --> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2025</div><img src='images/project/CoPe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CoPe: Taming Collaborative 3D Perception via Lite Network Attention across Mobile Agents \\
+**Shifan Zhang**, Hongzi Zhu, Yunzhe Li, Liang Zhang, Shan Chang, Minyi Guo \\
+<!-- <a href=""><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href=""><img src="https://img.shields.io/badge/Project-white"></a> -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/project/WISNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+WISNet: Pseudo Label Generation on Unbalanced and Patch Annotated Waste Images \\
+**Shifan Zhang**, Hongzi Zhu, Yinan He, Minyi Guo, Ziyang Lou, Shan Chang \\
+<!-- <a href=""><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href=""><img src="https://img.shields.io/badge/Project-white"></a> -->
+
+</div>
+</div>
+
+
+
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
