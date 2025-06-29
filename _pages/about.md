@@ -25,7 +25,7 @@ My research interest includes collaborative perception and weakly-supervised lea
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted to ICDCS 2025.
-- *2022.02*: &nbsp;🎉🎉 One paper has been accepted to CVPR 2025. 
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted to CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 One co-author paper has been accepted to ICLR 2025.
 
 # 📝 Publications 
@@ -40,7 +40,7 @@ My research interest includes collaborative perception and weakly-supervised lea
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> --> -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2025</div><img src='images/project/CoPe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,13 +67,12 @@ WISNet: Pseudo Label Generation on Unbalanced and Patch Annotated Waste Images \
 <div class='paper-box-text' markdown="1">
 
 Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning \\
-Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, Wei Shen\\
+Chongjie Si, Zhiyi Shi, **Shifan Zhang**, Xiaokang Yang, Hanspeter Pfister, Wei Shen\\
 <a href="https://arxiv.org/abs/2409.01035"><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href="https://chongjiesi.site/project/2024-lora-dash.html"><img src="https://img.shields.io/badge/Project-white"></a>Lora
+<a href="https://chongjiesi.site/project/2024-lora-dash.html"><img src="https://img.shields.io/badge/Project-white"></a>
 
 </div>
 </div>
-
 
 
 
