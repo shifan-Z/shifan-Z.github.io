@@ -25,19 +25,19 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   # bio              : "Lorem ipsum College"
   location         : "Shanghai, China"
-  employer         :
-  pubmed           : 
+  # employer         :
+  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UtzVbh0AAAAJ"
   email            : "zhangshifan@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  # github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
